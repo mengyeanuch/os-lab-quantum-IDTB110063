@@ -1,0 +1,8 @@
+Run1: 72
+Run2: 80 
+Run3: 76
+Run4: 74
+Run5: 90
+
+
+The result changes each run because multiple bot processes access inventory.txt at the same time. Several processes read the same inventory value before it is updated. Because the OS schedules processes differently each time, this creates a race condition (TOC-TOU vulnerability).
