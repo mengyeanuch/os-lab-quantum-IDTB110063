@@ -1,40 +1,37 @@
 
 
 ## level 2
-
-![[Pasted image 20260316145920.png]]
-
-![[Pasted image 20260316155340.png]]
-
+![Transaction Attempt](./screenshot/image.png)
+![cat sales.log and inventory.txt](./screenshot/image-14.png)
 ## level 3
 
 1st run:
-![[Pasted image 20260316155931.png]]
+![result of 1st run](./screenshot/image-15.png)
 
 2nd run:
-![[Pasted image 20260316160037.png]]
+![result of 2nd run](./screenshot/image-16.png)
 
 3rd run:
-![[Pasted image 20260316160201.png]]
+![result of 3rd run](./screenshot/image-17.png)
 
 4th run:
-![[Pasted image 20260316160240.png]]
+![result of 4th run](./screenshot/image-18.png)
 
 5th run:
-![[Pasted image 20260316160319.png]]
+![result of 5th run](./screenshot/image-19.png)
 
 ## level 4
 
-![[Pasted image 20260316161708.png]]
-![[Pasted image 20260316161819.png]]
+![cat inventory.txt](./screenshot/image-1.png)
+![tail -5 sales.log](./screenshot/image-2.png)
 
 ## level 5
 
-![[Pasted image 20260316164912.png]]
+![sales.log attack](./screenshot/image-3.png)
 
 ## level 6
-![[Pasted image 20260316165241.png]]
+![drop-zone permission](./screenshot/image-4.png)
 
 ## level 7
 
-![[Pasted image 20260316170749.png]]
+![cleanup result](./screenshot/image-5.png)
